@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Large pre-trained model (download separately via Drive link)
+20180402-114759/
+
+# Generated output - do not commit
+output/
+output_videos/
+attendance/
+
+# Trained classifier (generated after training)
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+venv/
+env/

@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+mtcnn
+scikit-learn
+pillow
+xlwt
+xlrd<2.0.0
+xlsxwriter
+scipy
+xlutils
