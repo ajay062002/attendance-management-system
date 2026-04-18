@@ -25,3 +25,7 @@ attendance/
 .env
 venv/
 env/
+
+.claude/
+.claude_context.md
+install_log.txt
